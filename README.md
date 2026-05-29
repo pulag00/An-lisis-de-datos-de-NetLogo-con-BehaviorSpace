@@ -1,4 +1,3 @@
-````markdown
 # Análisis de datos de NetLogo con BehaviorSpace y Google Colab
 
 ## Modelo Virus - Análisis del parámetro `infectiousness`
@@ -18,9 +17,6 @@ Analizar cómo el parámetro `infectiousness` afecta:
 
 ```netlogo
 count turtles with [sick?]
-````
-
----
 
 ## Pregunta experimental
 
